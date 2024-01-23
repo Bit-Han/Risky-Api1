@@ -1,4 +1,4 @@
-const CalltoAction = () => {
+const CallToAction = () => {
 	return (
 		<section>
 			<div
@@ -76,4 +76,4 @@ const CalltoAction = () => {
 	);
 };
 
-export default CalltoAction;
+export default CallToAction;

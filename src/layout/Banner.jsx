@@ -1,6 +1,4 @@
-//import { Link } from "react-router-dom";
-//import TransferForm from "../components/TransferForm";
-//import { checkUser } from "../helpers";
+
 
 const Banner = () => {
 	return (

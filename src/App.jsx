@@ -1,9 +1,9 @@
-//import ExaPortfolio from "./layout/ExaPortfolio";
+
 import Navbar from "./layout/Navbar";
 import Banner from "./layout/Banner";
 import Footer from "./layout/Footer";
 import Hero from "./layout/Hero";
-import CalltoAction from "./layout/CalltoAction";
+import CallToAction from "./layout/CallToAction";
 import TaxPage from "./layout/TaxPage";
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
 			<Navbar />
 			<Banner />	
 			<Hero />
-			<CalltoAction />
+			<CallToAction />
 			<TaxPage />
 			<Footer />  
 		</div>
